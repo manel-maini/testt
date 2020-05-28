@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958948710062",
+    "firebase_url": "https://text-recognition-app-ac70f.firebaseio.com",
+    "project_id": "text-recognition-app-ac70f",
+    "storage_bucket": "text-recognition-app-ac70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958948710062:android:85afa2487de981d8fd3f3f",
+        "android_client_info": {
+          "package_name": "com.example.myshite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958948710062-evdhmg8qrbmj7isk40jucma8nt7l2dhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dilSfUwsTvReUFgKIGz2SX7PdcEs3og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958948710062-evdhmg8qrbmj7isk40jucma8nt7l2dhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
